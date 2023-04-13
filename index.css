@@ -1,0 +1,129 @@
+body {
+  font-family: Microsoft JhengHei;
+}
+
+.header {
+  width: 100%;
+  height: 400px;
+  background-color: rgb(100, 100, 156);
+  position: relative;
+}
+.header .photo {
+  width: 200px;
+  height: 200px;
+  background-image: url(./jpg/cat.jfif);
+  background-repeat: no-repeat;
+  border-radius: 200px;
+  background-size: 200px;
+  margin: auto;
+  position: relative;
+  top: 20px;
+}
+.header .name {
+  font-size: 45px;
+  color: aliceblue;
+  text-align: center;
+}
+.header .about {
+  font-size: 36px;
+  color: aliceblue;
+  text-align: center;
+}
+
+.profile {
+  height: 50px;
+  margin: 0px 200px;
+}
+.profile .person-profile {
+  height: 13px;
+  font-size: 40px;
+}
+.profile .hr {
+  border-width: 2px;
+}
+.profile .data {
+  font-size: 24px;
+}
+
+.education {
+  height: 50px;
+  margin: 220px 200px;
+}
+.education .person-education {
+  height: 13px;
+  font-size: 40px;
+}
+.education .hr {
+  border-width: 2px;
+}
+.education .school {
+  font-size: 24px;
+}
+
+.skill {
+  width: 100%;
+  height: 350px;
+  background-color: rgb(100, 100, 156);
+  position: relative;
+}
+.skill .skill-profile {
+  font-size: 45px;
+  color: aliceblue;
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
+.skill .white-hr {
+  border-width: 2px;
+  width: 72%;
+}
+.skill .work-skill {
+  font-size: 30px;
+  color: aliceblue;
+  text-align: center;
+}
+
+.experience {
+  height: 50px;
+  margin: 0px 200px;
+  position: relative;
+}
+.experience .person-experience {
+  height: 13px;
+  font-size: 40px;
+}
+.experience .hr {
+  border-width: 2px;
+}
+.experience .job {
+  font-size: 40px;
+}
+.experience .Company {
+  font-size: 30px;
+  color: rgb(68, 118, 172);
+  position: absolute;
+  top: 90px;
+}
+.experience .li {
+  font-size: 28px;
+  position: absolute;
+  top: 180px;
+  left: 15px;
+}
+.experience .job2 {
+  font-size: 40px;
+  position: absolute;
+  top: 300px;
+}
+.experience .Company2 {
+  font-size: 30px;
+  color: rgb(68, 118, 172);
+  position: absolute;
+  top: 320px;
+}
+.experience .li2 {
+  font-size: 28px;
+  position: absolute;
+  top: 410px;
+  left: 15px;
+}/*# sourceMappingURL=index.css.map */
